@@ -1,7 +1,8 @@
 # CocosCreater_UIFrame
 
 cocos creator  UI框架-超简洁框架, UI支持动态配置
-这个UI框架是自己在上个项目写的一套框架.
+这个UI框架是自己在上个上线产品写的一套框架 基于CocosCreator2.0版本.
+性能做了很多优化,UI加载效率,drawcall优化. 同时也易于拓展，添加新功能.
 
 补充文档:
 
